@@ -1,0 +1,11 @@
+dataset,file,channel,n_ornek,fs,sinif,kosul,numune,boyut_mb,kullan,not_
+SEU bearingset,seu_clean/ball_20_0.npy,1,1048560,,Ball,20Hz-0V,SEU_rig,,1,"dosya adi=ball ic_Title='Title:,outer_20_0_1-10,,,,,,,' -- celisiyorsa DOGRULANAMADI"
+SEU bearingset,seu_clean/ball_30_2.npy,1,1048560,,Ball,30Hz-2V,SEU_rig,,1,dosya adi=ball ic_Title='Title:\touter_30_2_1-10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/comb_20_0.npy,1,1048560,,Combined,20Hz-0V,SEU_rig,,1,dosya adi=comb ic_Title='Title:\tinner_20_0_1-10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/comb_30_2.npy,1,1048560,,Combined,30Hz-2V,SEU_rig,,1,dosya adi=comb ic_Title='Title:\tinner_30_2_1-10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/health_20_0.npy,1,1048560,,Normal,20Hz-0V,SEU_rig,,1,dosya adi=health ic_Title='Title:\thealth_20_0_1_10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/health_30_2.npy,1,1048560,,Normal,30Hz-2V,SEU_rig,,1,dosya adi=health ic_Title='Title:\thealth_30_2_1-10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/inner_20_0.npy,1,1048560,,Inner,20Hz-0V,SEU_rig,,1,dosya adi=inner ic_Title='Title:\tinner_20_0_1-10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/inner_30_2.npy,1,1048560,,Inner,30Hz-2V,SEU_rig,,1,dosya adi=inner ic_Title='Title:\tinner_20_0_1-10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/outer_20_0.npy,1,1048560,,Outer,20Hz-0V,SEU_rig,,1,dosya adi=outer ic_Title='Title:\touter_20_0_1-10' -- celisiyorsa DOGRULANAMADI
+SEU bearingset,seu_clean/outer_30_2.npy,1,1048560,,Outer,30Hz-2V,SEU_rig,,1,dosya adi=outer ic_Title='Title:\touter_20_0_1-10' -- celisiyorsa DOGRULANAMADI

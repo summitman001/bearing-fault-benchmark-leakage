@@ -1,0 +1,23 @@
+# Veri: ucuncu taraf veri kumeleri depoya girmez
+data/
+
+# Ic notlar ve makale metni
+README_ic_notlar.md
+bolum3_*
+doldurma_kaydi.md
+sekil_kaydi.md
+*.zip
+
+# Hizli (CNN'siz) kosular ve ara ciktilar; yalnizca *_tam kosulari makaleye girer
+sonuc_cwru/
+sonuc_hust/
+sonuc_seu/
+sonuc/*
+!sonuc/manifest_hust_run.csv
+!sonuc/manifest_seu_run.csv
+!sonuc/capraz_CWRU.csv
+!sonuc/capraz_HUST.csv
+!sonuc/capraz_SEU.csv
+
+__pycache__/
+*.pyc

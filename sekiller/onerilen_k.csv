@@ -1,0 +1,13 @@
+dataset,model,onerilen_en_kucuk_k,kaynak_dosya
+CWRU,M1_CNN,50,sonuc_cwru_tam/onkayit_hukmu.csv
+CWRU,M2_RF,10,sonuc_cwru_tam/onkayit_hukmu.csv
+CWRU,M3_TRIVIAL,saglanmadi,sonuc_cwru_tam/onkayit_hukmu.csv
+CWRU,M4_KNN,saglanmadi,sonuc_cwru_tam/onkayit_hukmu.csv
+HUST,M1_CNN,saglanmadi,sonuc_hust_tam/onkayit_hukmu.csv
+HUST,M2_RF,10,sonuc_hust_tam/onkayit_hukmu.csv
+HUST,M3_TRIVIAL,saglanmadi,sonuc_hust_tam/onkayit_hukmu.csv
+HUST,M4_KNN,saglanmadi,sonuc_hust_tam/onkayit_hukmu.csv
+SEU,M1_CNN,saglanmadi,sonuc_seu_tam/onkayit_hukmu.csv
+SEU,M2_RF,10,sonuc_seu_tam/onkayit_hukmu.csv
+SEU,M3_TRIVIAL,10,sonuc_seu_tam/onkayit_hukmu.csv
+SEU,M4_KNN,50,sonuc_seu_tam/onkayit_hukmu.csv

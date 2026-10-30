@@ -1,0 +1,11 @@
+rec_id,dataset,dosya,sinif,kosul,numune,kanal,fs,n_ornek,n_pencere
+0,SEU bearingset,seu_clean/ball_20_0.npy,Ball,20Hz-0V,SEU_rig,1,,1048560,511
+1,SEU bearingset,seu_clean/ball_30_2.npy,Ball,30Hz-2V,SEU_rig,1,,1048560,511
+2,SEU bearingset,seu_clean/comb_20_0.npy,Combined,20Hz-0V,SEU_rig,1,,1048560,511
+3,SEU bearingset,seu_clean/comb_30_2.npy,Combined,30Hz-2V,SEU_rig,1,,1048560,511
+4,SEU bearingset,seu_clean/health_20_0.npy,Normal,20Hz-0V,SEU_rig,1,,1048560,511
+5,SEU bearingset,seu_clean/health_30_2.npy,Normal,30Hz-2V,SEU_rig,1,,1048560,511
+6,SEU bearingset,seu_clean/inner_20_0.npy,Inner,20Hz-0V,SEU_rig,1,,1048560,511
+7,SEU bearingset,seu_clean/inner_30_2.npy,Inner,30Hz-2V,SEU_rig,1,,1048560,511
+8,SEU bearingset,seu_clean/outer_20_0.npy,Outer,20Hz-0V,SEU_rig,1,,1048560,511
+9,SEU bearingset,seu_clean/outer_30_2.npy,Outer,30Hz-2V,SEU_rig,1,,1048560,511
